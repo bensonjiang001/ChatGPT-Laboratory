@@ -26,7 +26,7 @@ https://nat.dev/
 
 不论你是开发者、研究者、学生还是对 ChatGPT 技术感兴趣的任何人，都欢迎加入我们的 ChatGPT 交流群，与志同道合的人士一起学习交流，共同探讨 ChatGPT 技术的更多可能性。
 
-![5c3a80080b9e95e384d4350ccf34a1d](https://user-images.githubusercontent.com/4102373/227726483-46cce93b-0b0f-4f57-a45a-30cde6162939.jpg)
+<img src="https://user-images.githubusercontent.com/4102373/227726483-46cce93b-0b0f-4f57-a45a-30cde6162939.jpg" alt="5c3a80080b9e95e384d4350ccf34a1d" style="zoom:33%;" />
 
 ## 六、免责声明
 
