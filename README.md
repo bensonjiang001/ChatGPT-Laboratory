@@ -1,22 +1,22 @@
 ## 一、ChatGPT免费体验网站
 
-截止2023.3.25最新可用（以下为少数精选网站，均实测可用，如遇打不开的情况请自行解决科学上网问题）：
+截止2023.3.25最新可用：
 
-https://freegpt.one/
+https://freegpt.one/   排名No1，基于gpt-3.5-turbo ，响应快且稳定无访问次数限制，能满足普通用户的需求，但可能需要科学上网工具
 
-https://fastgpt.app/
+https://nat.dev/  排名No2，集成了市场上所有AI模型，包括最新的gpt-4等，稳定性不错，如无梯子，可作为首选
 
-https://nat.dev/
+https://fastgpt.app/   排名No3，可选择gpt模型，但有访问次数限制
 
 后续持续更新中
 
 ## 二、ChatGPT高级提问技巧
 
-即将更新，敬请期待
+https://www.explainthis.io/zh-hans/chatgpt  ChatGPT指令大全，提供了精炼过的指令语句
 
 ## 三、ChatGPT跨行业应用实践
 
-即将更新，敬请期待
+https://www.explainthis.io/zh-hans/ai-toolkit  AI 工具百宝箱，汇总了最实用、最热门的 AI 工具
 
 ## 四、ChatGPT学术研究
 
