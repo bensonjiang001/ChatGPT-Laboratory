@@ -48,10 +48,12 @@ https://www.explainthis.io/zh-hans/chatgpt  ChatGPT指令大全，提供了精�
 
 ## 五、讨论交流
 
-不论你是开发者、研究者、学生还是对 ChatGPT 技术感兴趣的任何人，都欢迎加入我们的 ChatGPT 交流群，与志同道合的人士一起学习交流，共同探讨 ChatGPT 技术的更多可能性。
+不论你是开发者、研究者、学生还是对 ChatGPT 技术感兴趣的任何人，都欢迎加入我们的 ChatGPT 交流群，与志同道合的人士一起学习交流，共同探讨 ChatGPT 技术的更多可能性。（如群显示需邀请加入，可添加助理微信）
 
-<img src="https://user-images.githubusercontent.com/4102373/227726483-46cce93b-0b0f-4f57-a45a-30cde6162939.jpg" alt="5c3a80080b9e95e384d4350ccf34a1d" width="200" />
-![d88af2d3086ee85755e5484b6cdb8c3](https://user-images.githubusercontent.com/4102373/227783526-b4b1fc3b-72a1-4d04-8899-c6250fe4ac66.jpg)
+<img src="https://user-images.githubusercontent.com/4102373/227726483-46cce93b-0b0f-4f57-a45a-30cde6162939.jpg" alt="5c3a80080b9e95e384d4350ccf34a1d" width="20%" height="20%"  />
+
+<img src="https://user-images.githubusercontent.com/4102373/227783526-b4b1fc3b-72a1-4d04-8899-c6250fe4ac66.jpg" alt="5c3a80080b9e95e384d4350ccf34a1d" width="20%" height="20%"  />
+
 ## 六、免责声明
 
 本仓库收集的 ChatGPT 资料及相关信息均为公开信息，仅供学习和研究使用。我们不对任何人的使用或依赖该资料产生的任何直接或间接损失或损害承担责任。
