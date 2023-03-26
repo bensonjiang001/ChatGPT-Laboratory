@@ -14,15 +14,33 @@ No3. https://fastgpt.app/
 
 ——理由：可选择gpt模型，但有访问次数限制
 
-——后续持续更新中
+——后续持续更新中，对于专业用户，建议注册[openai](https://chat.openai.com/auth/login)自有账号并开通plus会员，体验更稳定、更高级功能
 
-## 二、ChatGPT高级提问技巧
+## 二、ChatGPT提问技巧
 
 https://www.explainthis.io/zh-hans/chatgpt  ChatGPT指令大全，提供了精炼过的指令语句
 
-## 三、ChatGPT跨行业应用实践
+——持续更新中
 
-https://www.explainthis.io/zh-hans/ai-toolkit  AI 工具百宝箱，汇总了最实用、最热门的 AI 工具
+## 三、AI工具英雄榜
+
+### 5.1 免费AI工具榜单
+
+[ChatGPT](https://chat.openai.com/auth/login)：提供基本的问答功能，不稳定、功能不如Plus版本，但对普通用户够用了
+
+[周报生成器](https://weeklyreport.avemaria.fun/zh)：程序员的福音，几秒钟自动生成让领导刮目相看的高质量周报
+
+### 5.2 收费AI工具榜单
+
+[ChatGPT Plus](https://chat.openai.com/auth/login)：更稳定、更高级的问答功能，不用多说，懂的都懂，20刀/月
+
+[Notion AI](https://www.notion.so/product/ai)：Notion提供的智能生成笔记工具，10刀/月
+
+[Copilot](https://github.com/features/copilot/)： GitHub与 OpenAI合作的智能生成代码插件，个人10刀/月，100刀/年，企业19刀/人/月
+
+[Midjourney](https://www.midjourney.com/)：文本生成图像，基础版8刀/月，标准版24刀/月，专业版48刀/月
+
+——持续更新中
 
 ## 四、ChatGPT学术研究
 
