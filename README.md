@@ -14,13 +14,13 @@
 
 强烈推荐：需VPN访问
 
-1. https://freegpt.one/  ：基于gpt-3.5-turbo ，响应快且稳定无访问次数限制，能满足普通用户的需求，但可能需要科学上网工具
+1. https://freegpt.one/  ：基于gpt-3.5-turbo ，响应快且稳定无访问次数限制，能满足普通用户的需求
 
-2. https://nat.dev/  ：集成了市场上所有AI模型，包括最新的gpt-4等，稳定性不错，如无梯子，可作为首选，但用多了需要付费
+2. https://nat.dev/  ：集成了市场上所有AI模型，包括最新的gpt-4等，稳定性不错，用多了需要付费
 
 3. https://fastgpt.app/  ：可选择gpt模型，但有访问次数限制
 
-   ——后续持续更新中，对于专业用户，建议注册[openai](https://chat.openai.com/auth/login)自有账号并开通plus会员，体验更稳定、更高级功能
+   ——对于专业用户，建议注册[openai](https://chat.openai.com/auth/login)自有账号并开通plus会员，体验更稳定、更高级功能
 
 ## 二、ChatGPT提问技巧
 
