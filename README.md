@@ -4,7 +4,7 @@
 
 强烈推荐：直接访问
 
-1. https://chatgpt1680.zeabur.app/：使用openai的api，基于 [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 搭建的网站，可以无需科学上网，直接访问免费使用，以下为备用网站
+1. https://chatgpt1680.zeabur.app/  ：使用openai的api，基于 [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 搭建的网站，可以无需科学上网，直接访问免费使用，以下为备用网站
 2. https://chatgptfly.club/
 3. https://ai.d9j.com/
 4. https://ai.martini.wang/
@@ -14,11 +14,11 @@
 
 强烈推荐：需VPN访问
 
-1. https://freegpt.one/：基于gpt-3.5-turbo ，响应快且稳定无访问次数限制，能满足普通用户的需求，但可能需要科学上网工具
+1. https://freegpt.one/  ：基于gpt-3.5-turbo ，响应快且稳定无访问次数限制，能满足普通用户的需求，但可能需要科学上网工具
 
-2. https://nat.dev/：集成了市场上所有AI模型，包括最新的gpt-4等，稳定性不错，如无梯子，可作为首选，但用多了需要付费
+2. https://nat.dev/  ：集成了市场上所有AI模型，包括最新的gpt-4等，稳定性不错，如无梯子，可作为首选，但用多了需要付费
 
-3. https://fastgpt.app/：可选择gpt模型，但有访问次数限制
+3. https://fastgpt.app/  ：可选择gpt模型，但有访问次数限制
 
    ——后续持续更新中，对于专业用户，建议注册[openai](https://chat.openai.com/auth/login)自有账号并开通plus会员，体验更稳定、更高级功能
 
@@ -26,7 +26,7 @@
 
 1. [ChatGPT指令大全](https://www.explainthis.io/zh-hans/chatgpt  )：提供了精炼过的指令语句
 2. [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南， 学习怎么让它听你的话。 
-3. [Learning Prompt](https://learningprompt.wiki/)：免费的 Prompt Engineering 教程，现已包含 ChatGPT 和 Midjourney 教程 
+3. [Learning Prompt](https://learningprompt.wiki/)  ：免费的 Prompt Engineering 教程，现已包含 ChatGPT 和 Midjourney 教程 
 4. [如何将ChatGPT调教成一只猫娘](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) 
 
 ## 三、免费AI工具英雄榜
