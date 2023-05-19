@@ -1,16 +1,14 @@
-## 一、ChatGPT免费体验网站
+## 一、ChatGPT体验篇
 
-截止2023.4.15最新可用：
+截止2023.5.19最新可用：
 
 强烈推荐：直接访问
 
-1. https://chatgpt1680.zeabur.app/  ：使用openai的api，基于 [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 搭建的网站，可以无需科学上网，直接访问免费使用，以下为备用网站
-2. https://chatgptfly.club/
-3. https://ai.d9j.com/
-4. https://ai.martini.wang/
-5. https://www.bobnewby.eu.org/
-6. https://chat.abrahamgreyson.me/
-7. https://chat.casemaka.com/
+1. https://chatgpt1680.zeabur.app/  ：使用openai的api，基于 [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 搭建的网站，可以无需科学上网，直接访问免费使用，以下为备用网站（部分网站会有访问次数限制）
+2. https://ai.martini.wang/
+3. https://www.bobnewby.eu.org/
+4. https://chat.abrahamgreyson.me/
+5. https://chat.casemaka.com/
 
 强烈推荐：需VPN访问
 
@@ -22,14 +20,14 @@
 
    ——对于专业用户，建议注册[openai](https://chat.openai.com/auth/login)自有账号并开通plus会员，体验更稳定、更高级功能
 
-## 二、ChatGPT提问技巧
+## 二、ChatGPT高级篇
 
 1. [ChatGPT指令大全](https://www.explainthis.io/zh-hans/chatgpt  )：提供了精炼过的指令语句
 2. [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南， 学习怎么让它听你的话。 
 3. [Learning Prompt](https://learningprompt.wiki/)  ：免费的 Prompt Engineering 教程，现已包含 ChatGPT 和 Midjourney 教程 
 4. [如何将ChatGPT调教成一只猫娘](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) 
 
-## 三、免费AI工具英雄榜
+## 三、免费AI工具篇
 
 ### 3.1 AI热门
 
@@ -62,7 +60,7 @@
 
 1. [AI代码自动转换](https://github.com/mckaywrigley/ai-code-translator)：通过chatgpt实现各种编程语言间的转换，在外面封装了个前端页面。虽然chatgpt写代码还可以，但转换代码这块还不够完美（p.s程序员暂时下不了岗）
 
-## 四、付费AI工具英雄榜
+## 四、付费AI工具篇
 
 ### 4.1 AI热门
 
@@ -77,7 +75,9 @@
 
 ## 五、ChatGPT学术研究
 
-即将更新，敬请期待
+[1、GPT-4技术报告](https://github.com/bensonjiang001/ChatGPT-Laboratory/blob/main/pdf/GPT-4%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
+
+[2、学术论文汇总20篇](https://github.com/bensonjiang001/ChatGPT-Laboratory/tree/main/pdf/%E8%AE%BA%E6%96%87%E9%9B%86)
 
 ## 六、讨论交流
 
