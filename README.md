@@ -18,22 +18,22 @@
 
 3. https://fastgpt.app/  ：可选择gpt模型，但有访问次数限制
 
-   ——对于专业用户，建议注册[openai](https://chat.openai.com/auth/login)自有账号并开通plus会员，体验更稳定、更高级功能
+   ——**对于专业用户，建议注册[openai](https://chat.openai.com/auth/login)自有账号并开通plus会员，体验更稳定、更高级功能（也可添加后文微信获取独立专享openai账户）**
 
 ## 二、ChatGPT高级篇
 
-1. [ChatGPT指令大全](https://www.explainthis.io/zh-hans/chatgpt  )：提供了精炼过的指令语句
-2. [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南， 学习怎么让它听你的话。 
-3. [Learning Prompt](https://learningprompt.wiki/)  ：免费的 Prompt Engineering 教程，现已包含 ChatGPT 和 Midjourney 教程 
-4. [如何将ChatGPT调教成一只猫娘](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) 
+1. [OpanAI官方使用指南](https://github.com/openai/openai-cookbook)： OpenAI官方提供的基于API实现各种日常任务的代码示例
+2. [ChatGPT指令大全](https://www.explainthis.io/zh-hans/chatgpt  )：提供了精炼过的指令语句
+3. [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：各种场景使用指南， 学习怎么让它听你的话。 
+4. [Learning Prompt](https://learningprompt.wiki/)  ：免费的 Prompt Engineering 教程，现已包含 ChatGPT 和 Midjourney 教程 
+5. [ChatGPT 插件汇总](https://github.com/reorx/awesome-chatgpt-api/blob/master/README.cn.md)： 基于 ChatGPT API，且允许配置自己的 [API key]的工具和应用的精选列表 
 
 ## 三、免费AI工具篇
 
-### 3.1 AI热门
+### 3.1 AI热门（对于大多数人，会用这两个就足够了！）
 
 1. [ChatGPT](https://chat.openai.com/auth/login)：提供基本的问答功能，不稳定、功能不如Plus版本，但对普通用户够用了
 2. [new bing](https://www.bing.com/new)：基于chatgpt、支持联网查询的智能bing（每天 200 个问题/每个问题 20 轮次），需要科学上网并开启全局模式
-3. [周报生成器](https://weeklyreport.avemaria.fun/zh)：程序员的福音，几秒钟自动生成让领导刮目相看的高质量周报
 
 ### 3.2 AI对话
 
@@ -59,6 +59,7 @@
 ### 3.5 AI编程
 
 1. [AI代码自动转换](https://github.com/mckaywrigley/ai-code-translator)：通过chatgpt实现各种编程语言间的转换，在外面封装了个前端页面。虽然chatgpt写代码还可以，但转换代码这块还不够完美（p.s程序员暂时下不了岗）
+2. [周报生成器](https://weeklyreport.avemaria.fun/zh)：程序员的福音，几秒钟自动生成让领导刮目相看的高质量周报
 
 ## 四、付费AI工具篇
 
@@ -73,11 +74,38 @@
 
 1. [jasper](https://app.jasper.ai/)：有丰富的模板可用，包括博客、书、剧本等模板，国外比较受欢迎，最低40刀/月
 
-## 五、ChatGPT学术研究
+## 五、其它篇
 
-[1、GPT-4技术报告](https://github.com/bensonjiang001/ChatGPT-Laboratory/blob/main/pdf/GPT-4%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
+1、市场研究报告
 
-[2、学术论文汇总20篇](https://github.com/bensonjiang001/ChatGPT-Laboratory/tree/main/pdf/%E8%AE%BA%E6%96%87%E9%9B%86)
+- [主流市场研究报告汇总10篇](https://github.com/bensonjiang001/ChatGPT-Laboratory/tree/main/pdf/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A)
+
+2、技术介绍
+
+- [【OpenAI】GPT-4技术报告](https://github.com/bensonjiang001/ChatGPT-Laboratory/blob/main/pdf/GPT-4%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
+- [【知乎】ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于GPT-4/ChatGPT技术与产业分析）](https://zhuanlan.zhihu.com/p/590655677)
+- [【知乎】ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习](https://zhuanlan.zhihu.com/p/589747432)
+- [【知乎】解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://zhuanlan.zhihu.com/p/602458131)
+- [【知乎】从零实现ChatGPT——RLHF技术笔记](https://zhuanlan.zhihu.com/p/591474085)
+- [【知乎】通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+- [【知乎】ChatGPT/InstructGPT详解](https://zhuanlan.zhihu.com/p/590311003)
+- [【知乎】ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文](https://zhuanlan.zhihu.com/p/592671478)
+- [【微信公众号】万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg)
+- [【微信公众号】ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A)
+- [【微信公众号】万字长文教你如何做出 ChatGPT](https://mp.weixin.qq.com/s/8IFcQDhsLIWJIx8siF-wdQ)
+
+3、视频讲解
+
+- [【you2be】ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg&t=24s)
+- [【bilibili】InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)
+
+4、学术论文
+
+- [学术论文汇总20篇](https://github.com/bensonjiang001/ChatGPT-Laboratory/tree/main/pdf/%E8%AE%BA%E6%96%87%E9%9B%86)
+
+5、大模型开发
+
+- [ColossalAI](https://github.com/hpcaitech/ColossalAI/tree/main)： ColossalAI是一个分布式深度学习模型的平台。它提供了易于使用的工具，可以在几行代码内启动分布式训练和推理。
 
 ## 六、讨论交流
 
